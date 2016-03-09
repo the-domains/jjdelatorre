@@ -1,14 +1,26 @@
-layout_spectrum: 0.3965959
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.1925937
 color:
   saturation: 0.3632859
+  brandStrength: 0.9820789
   lightness: 0.1872625
-  brandStrength: 0.4631054
-  rhythmicContrast: 0.02226395
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#C7CDD1'
+    - '#9AA3A3'
+    - '#30301F'
+    - '#5D656E'
+    - '#BCA439'
+  rhythmicContrast: 0.02226395
+layout_spectrum: 0.2724014
 name: jjdelatorre
