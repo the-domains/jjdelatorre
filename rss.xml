@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jjdelatorre]]></title>
         <description><![CDATA[jjdelatorre]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jjdelatorre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 08:35:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 08:37:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jjdelatorre/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I'm a strategist, digital_hero, telco&media_expert,  entrepreneur, investor, mentor, design_evangelist, former professional DJ and IBMer</p>]]></description>
-            <link>undefined702e0ce7-1000-4a94-a668-6570f57c26b2/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/989f117d-157a-49e5-a347-026a9c9ef931.jpg">]]></description>
+            <link>https://thegrid.ai/jjdelatorre/702e0ce7-1000-4a94-a668-6570f57c26b2/index.html</link>
             <guid isPermaLink="false">702e0ce7-1000-4a94-a668-6570f57c26b2</guid>
-            <pubDate>Thu, 10 Mar 2016 08:34:56 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 08:36:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
